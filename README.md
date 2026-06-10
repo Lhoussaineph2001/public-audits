@@ -29,10 +29,10 @@ For collabs or security audits, reach out on X [muslimethguard](https://x.com/lh
 
 | ID | Protocol | Ecosystem | Platform | Description | Findings | Report |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Hybra Finance | Solidity - EVM | C4 | Decentralized public liquidity layer for Hyperliquid | 1 H | [🔗](https://code4rena.com/reports/2025-10-hybra-finance) |
+| 1 | Hybra Finance | Solidity - EVM | C4 | Decentralized public liquidity layer for Hyperliquid | 1 H | [🔗](https://code4rena.com/audits/2025-10-hybra-finance/submissions/S-600)  |
 | 2 | Notional Exponent | Solidity - EVM | Sherlock | Notional Exponent is a leveraged yield protocol. Notional Exponent enables users to borrow from Morpho to establish leveraged staking, leveraged PT, and leveraged liquidity strategies. | 2 M | [🔗](https://audits.sherlock.xyz/contests/1001) |
-| 3 | Next-generation | Solidity - EVM | C4 | — | 1 M | [🔗](https://code4rena.com/reports/2025-01-next-generation) |
-| 4 | Aave DIVA Wrapper | Solidity - EVM | Codehawks | — | 1 L | [🔗](https://codehawks.cyfrin.io/c/2025-01-diva/results) |
+| 3 | Next-generation | Solidity - EVM | C4 | — | 1 M | [🔗](https://code4rena.com/audits/2025-01-next-generation/submissions/S-778) |
+| 4 | Aave DIVA Wrapper | Solidity - EVM | Codehawks | — | 1 L | [🔗](https://codehawks.cyfrin.io/c/2025-01-diva/s/317) |
 
 
 
