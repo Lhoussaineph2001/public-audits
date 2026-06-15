@@ -1,6 +1,8 @@
 # About muslimethguard
 
-I'm an independent Web3 Security Researcher competing on Sherlock, C4, and Codehawks. Skilled in Rust, Solidity, I specialize in identifying vulnerabilities in blockchain protocols and EVM protocols/Bridges/Cross-chain
+I'm an independent Web3 Security Researcher competing on Sherlock, C4, and Codehawks. Skilled in Rust, Solidity. Currently triaging at Pashove Audit Group.
+
+I specialize in identifying vulnerabilities in blockchain protocols and EVM protocols/Bridges/Cross-chain
 
 For collabs or security audits, reach out on X [muslimethguard](https://x.com/lhoussainePh).
 
